@@ -1,2 +1,4 @@
 # Screenplay-Success-Using-Film-Structure
-CS 4641 Final Project
+**CS 4641 Final Project**
+
+Film success is shaped by many factors, but the screenplay remains one of the most important elements in retaining audience engagement. Structural elements from the screenplay including story structure, pacing, and character development influence how viewers experience and receive a film through its runtime. For producers and writers, understanding which screenplay features are associated with stronger audience response can drive creative decisions in an increasingly competitive industry. This project investigates whether screenplay text alone can be used to predict film success, independent from external financial, marketing, and corporate influence. By analyzing scene level structure and textual patterns located in the screenplay, we aim to identify which aspects are most strongly linked to positive audience ratings.
