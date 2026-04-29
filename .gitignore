@@ -1,1 +1,6 @@
 .env
+# Large/generated ML artifacts
+*.pt
+*.npz
+*.joblib
+

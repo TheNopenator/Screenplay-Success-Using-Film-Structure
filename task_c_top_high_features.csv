@@ -1,0 +1,41 @@
+feature,coef,direction
+char_tfidf: -----,0.5261112232998291,high_rating_associated
+char_tfidf: ----,0.49584378408064095,high_rating_associated
+word_tfidf: melvin,0.4703291112127983,high_rating_associated
+numeric: log_word_count,0.3865307177943479,high_rating_associated
+char_tfidf: ---,0.37700971355133006,high_rating_associated
+word_tfidf: aunt,0.33333209651413126,high_rating_associated
+char_tfidf: elvin,0.3005362563081615,high_rating_associated
+word_tfidf: mr,0.2925764576031116,high_rating_associated
+word_tfidf: sir,0.28822001036768735,high_rating_associated
+word_tfidf: old man,0.2846545320097788,high_rating_associated
+word_tfidf: piano,0.25987730704625384,high_rating_associated
+word_tfidf: german,0.2566489712157409,high_rating_associated
+word_tfidf: gideon,0.256412650117712,high_rating_associated
+word_tfidf: dan,0.2509412316561371,high_rating_associated
+word_tfidf: cafe,0.25087765027172704,high_rating_associated
+word_tfidf: sal,0.2506595649679743,high_rating_associated
+char_tfidf: lvin ,0.24736970209850717,high_rating_associated
+word_tfidf: maid,0.24694300105870495,high_rating_associated
+word_tfidf: seth,0.24576098367023758,high_rating_associated
+word_tfidf: int hotel,0.24428350451824574,high_rating_associated
+word_tfidf: toothless,0.2440631081505615,high_rating_associated
+word_tfidf: 3rd,0.2426932780749394,high_rating_associated
+word_tfidf: wallet,0.2424354162292086,high_rating_associated
+word_tfidf: derek,0.24009932242429793,high_rating_associated
+word_tfidf: title,0.23944607386287367,high_rating_associated
+word_tfidf: santiago,0.23801500272406956,high_rating_associated
+word_tfidf: smith,0.235578562867864,high_rating_associated
+word_tfidf: rid,0.2337529421109775,high_rating_associated
+word_tfidf: barber,0.23203211156355807,high_rating_associated
+word_tfidf: bunk,0.2300246414314448,high_rating_associated
+word_tfidf: benjamin,0.22984809212247384,high_rating_associated
+word_tfidf: son,0.2297127735866701,high_rating_associated
+char_tfidf: vin ,0.22859552172001615,high_rating_associated
+word_tfidf: lenny,0.22711101405091444,high_rating_associated
+word_tfidf: rita,0.22678355859636973,high_rating_associated
+word_tfidf: francisco,0.2267661988377079,high_rating_associated
+word_tfidf: patrick,0.22310094973829003,high_rating_associated
+word_tfidf: oxygen,0.22240424098245526,high_rating_associated
+word_tfidf: elaine,0.22229079094432164,high_rating_associated
+word_tfidf: aye,0.21994277583982244,high_rating_associated

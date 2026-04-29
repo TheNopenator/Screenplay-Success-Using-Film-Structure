@@ -1,0 +1,41 @@
+feature,coef,direction
+numeric: short_line_ratio,-0.5694304624213323,low_rating_associated
+numeric: long_line_ratio,-0.4919764132392577,low_rating_associated
+numeric: log_scene_count,-0.40042143719963225,low_rating_associated
+word_tfidf: cable,-0.35692621293883187,low_rating_associated
+word_tfidf: amy,-0.3492889585940145,low_rating_associated
+word_tfidf: larry,-0.33339105904735483,low_rating_associated
+word_tfidf: cell,-0.3265750756751272,low_rating_associated
+numeric: negative_word_density,-0.324087863268309,low_rating_associated
+word_tfidf: cell phone,-0.3182347767667169,low_rating_associated
+char_tfidf: juli,-0.3135370508730301,low_rating_associated
+char_tfidf:  juli,-0.3101539849587534,low_rating_associated
+word_tfidf: patio,-0.30187707103807526,low_rating_associated
+word_tfidf: female,-0.29687257075119844,low_rating_associated
+word_tfidf: security,-0.2916843982311672,low_rating_associated
+numeric: positive_word_density,-0.28754965925359877,low_rating_associated
+word_tfidf: michelle,-0.2829988368012266,low_rating_associated
+word_tfidf: continuous,-0.28074033266883525,low_rating_associated
+word_tfidf: interior,-0.2803795446883527,low_rating_associated
+word_tfidf: harold,-0.2801328132029138,low_rating_associated
+word_tfidf: laptop,-0.2777382481007471,low_rating_associated
+word_tfidf: penelope,-0.26764727031997937,low_rating_associated
+word_tfidf: computer,-0.26379414249015304,low_rating_associated
+word_tfidf: julie,-0.26315949083957274,low_rating_associated
+word_tfidf: male,-0.26141964108163673,low_rating_associated
+word_tfidf: second floor,-0.2581571530813167,low_rating_associated
+word_tfidf: bobby,-0.25567326256703904,low_rating_associated
+word_tfidf: sex,-0.25542049680033396,low_rating_associated
+word_tfidf: ski,-0.254172354493716,low_rating_associated
+word_tfidf: beam,-0.253432874340438,low_rating_associated
+word_tfidf: suv,-0.25285949983285266,low_rating_associated
+word_tfidf: sexy,-0.2502065749275905,low_rating_associated
+char_tfidf:  amy ,-0.2475910581285084,low_rating_associated
+word_tfidf: sadie,-0.24708662741649556,low_rating_associated
+word_tfidf: mic,-0.24392520405441073,low_rating_associated
+char_tfidf: (o.s,-0.24177180180276736,low_rating_associated
+word_tfidf: kenneth,-0.23770801872357677,low_rating_associated
+word_tfidf: iron,-0.2363097553432192,low_rating_associated
+word_tfidf: nathan,-0.2355069779635572,low_rating_associated
+char_tfidf: larry,-0.23544805228975255,low_rating_associated
+char_tfidf: ont'd,-0.23488723159256486,low_rating_associated
